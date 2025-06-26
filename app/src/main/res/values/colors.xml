@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cores principais -->
+    <color name="blue_app">#29b5b4</color>
+    <color name="primary">#1e1e1e</color>
+    <color name="primary_variant">#2c2c2c</color>
+    <color name="secondary">#d9d9d9</color>
+
+    <!-- Cores neutras -->
+    <color name="background">#121212</color>
+    <color name="surface">#252525</color>
+
+    <!-- Cores de texto -->
+    <color name="onPrimary">#ffffff</color>
+    <color name="onSecondary">#cccccc</color>
+
+    <!-- Cores de feedback -->
+    <color name="success">#4caf50</color>
+    <color name="error">#f44336</color>
+    <color name="warning">#ff9800</color>
+    <color name="info">#2196f3</color>
+
+    <!-- Desabilitado / inativo -->
+    <color name="disabled">#888888</color>
+    <color name="overlay">#00000000</color> <!-- Transparente -->
+
+
+</resources>
