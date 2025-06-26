@@ -1,0 +1,11 @@
+
+{
+    "name": "VirtualCamApp Dev",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {},
+    "extensions": [],
+    "forwardPorts": [],
+    "postCreateCommand": "echo 'sdk.dir=/usr/local/android-sdk' > local.properties && ./gradlew assembleDebug"
+}
