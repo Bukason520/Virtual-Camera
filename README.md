@@ -46,7 +46,7 @@ app/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/brunojbatista/VirtualCamApp.git
+git clone https://github.com/Bukason520/Virtual-Camera.git
 ```
 
 2. Abra o projeto no Android Studio.
