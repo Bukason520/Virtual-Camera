@@ -1,0 +1,16 @@
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Firebase plugin removed
+    }
+}
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
